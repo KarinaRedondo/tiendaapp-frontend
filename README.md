@@ -6,7 +6,11 @@
 
 ## Descripción
 
-El sistema es una plataforma de comercio local desarrollada con Spring Boot y basada en microservicios para asegurar escalabilidad y mantenimiento. Facilita la interacción entre clientes, tenderos y domiciliarios mediante una arquitectura segura que utiliza Spring Security y autenticación JWT. Permite gestionar usuarios, tiendas, vehículos, pedidos, calificaciones, ganancias y ventas, mejorando la comunicación y la eficiencia en la entrega de productos a domicilio.
+El sistema es una plataforma de comercio local desarrollada con **Spring Boot** en el backend y **TypeScript con SWC** en el frontend, basada en una arquitectura de microservicios para garantizar escalabilidad y mantenimiento.  
+
+Facilita la interacción entre clientes, tenderos y domiciliarios mediante un sistema seguro que emplea **Spring Security** y autenticación **JWT** en el backend, mientras que en el frontend optimiza el rendimiento con **Vite y SWC**.  
+
+La plataforma permite gestionar usuarios, tiendas, vehículos, pedidos, calificaciones, ganancias y ventas, mejorando.
 
 ## Tecnologias
 - React
