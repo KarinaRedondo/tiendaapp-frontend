@@ -21,7 +21,7 @@ La plataforma permite gestionar usuarios, tiendas, vehículos, pedidos, califica
 -   Java 17
 
 ## Cómo empezar
-1. Clona este repositorio.
+1. Clona este repositorio git@github.com:KarinaRedondo/tiendaapp-frontend.git
 2. Configura la conexión con el backend en el archivo index.ts dentro de la carpeta api. 
 3. Ejecuta la aplicación.
 
