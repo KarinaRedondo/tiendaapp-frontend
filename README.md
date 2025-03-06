@@ -18,7 +18,7 @@ El sistema es una plataforma de comercio local desarrollada con Spring Boot y ba
 
 ## Cómo empezar
 1. Clona este repositorio.
-2. Configura la conexión a la base de datos en el archivo de configuración `application.properties`.
+2. Configura la conexión con el backend en el archivo index.ts dentro de la carpeta api. 
 3. Ejecuta la aplicación.
 
 
