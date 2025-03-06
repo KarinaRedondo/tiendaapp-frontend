@@ -26,7 +26,7 @@ La plataforma permite gestionar usuarios, tiendas, vehículos, pedidos, califica
 3. Ejecuta la aplicación.
 
 
-# Dependencias del proyecto
+## Dependencias del proyecto
 
 ## 1. Dependencies (Producción)  
 Estas son las librerías necesarias para el funcionamiento del frontend.  
@@ -52,7 +52,7 @@ Estas herramientas ayudan en el desarrollo del proyecto, pero no son necesarias 
 - **`vite`** → Herramienta rápida para construir proyectos con React.
 
 
-# Principios de Diseño y Flujo de Trabajo en el Frontend  
+## Principios de Diseño y Flujo de Trabajo en el Frontend  
 
 En este proyecto, hemos utilizado uno de los principios SOLID, específicamente el **Principio de Responsabilidad Única (SRP)**. Este principio establece que cada módulo o clase debe tener una única responsabilidad, es decir, debe encargarse de una sola tarea. Esto se traduce en un código más limpio, mantenible y fácil de entender.  
 
@@ -65,7 +65,7 @@ Para lograrlo, dividimos el proyecto en varias capas, asegurando que cada una te
 - **`views/`**: Define las páginas principales de la aplicación, que agrupan componentes y presentan la interfaz al usuario.  
 
 
- # Arquitectura por Capas  
+ ## Arquitectura por Capas  
 
 El sistema de Comercio Local sigue una **arquitectura por capas**, lo que permite organizar el código de manera estructurada y modular. Cada capa tiene una función específica y se comunica con las demás de manera controlada, lo que facilita la **escalabilidad, el mantenimiento y la reutilización del código**.  
 
